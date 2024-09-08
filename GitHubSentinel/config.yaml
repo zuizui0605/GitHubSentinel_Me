@@ -1,0 +1,4 @@
+# 配置文件示例
+github_token: "your_github_token"
+notification_type: "email"  # 支持 'email' 或 'slack'
+report_interval: "daily"    # 支持 'daily' 或 'weekly'
